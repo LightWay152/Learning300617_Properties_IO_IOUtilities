@@ -1,0 +1,16 @@
+﻿1/ Collection:
+Map - HashMap
+Set - HashSet
+2/ Colletions: utils of Collection
+Shuflle, Rotate, ...
+
+Properties: key-value
+- We have 2 type of file: Properties, Xml
+
+IO:
+InputStream - OutputStream
+FileInputStream - FileOutputStream
+ByteArrayInputStream - ByteArrayInputStream
+ObjectInputStream - ObjectOutputStream
+
+Note: remmeber to create temp folder in disk C and copy some files for examples.

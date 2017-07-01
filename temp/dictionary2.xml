@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Dictionary</comment>
+<entry key="school">truong hoc</entry>
+<entry key="family">gia dinh</entry>
+</properties>
